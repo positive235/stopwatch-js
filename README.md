@@ -1,10 +1,10 @@
-# Stop Watch in JS
+# Stopwatch in JS
 
 ![stopWatch](img/stopWatch_screenshot.png)
 
 ## Background
 
-An activity to make "Stop Watch" in MDN Web Docs "Cooperative asychronous JS: Timeouts and intervals".
+An activity to make "Stopwatch" in MDN Web Docs "Cooperative asychronous JS: Timeouts and intervals".
 
 ## Improvements
 
